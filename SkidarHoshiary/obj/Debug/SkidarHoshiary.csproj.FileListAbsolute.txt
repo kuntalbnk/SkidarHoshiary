@@ -1,0 +1,154 @@
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.ChangePassword.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Company.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.CompanyReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Dashboard.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Godown.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.GodownsReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Login.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Order.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.OrderReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Print.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Properties.Resources.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Purchase.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseItems.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Transportation.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.TransportationReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.UserRights.resources
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csproj.GenerateResource.Cache
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Sales.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.dll
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csprojResolveAssemblyReference.cache
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.ChangePassword.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Company.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.CompanyReport.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Dashboard.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Godown.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.GodownsReport.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Login.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Order.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.OrderReport.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Print.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Properties.Resources.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Purchase.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseItems.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseReport.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Sales.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Transportation.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.TransportationReport.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.UserRights.resources
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csproj.GenerateResource.Cache
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.ChangePassword.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Company.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.CompanyReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Dashboard.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Godown.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.GodownsReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Login.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Order.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.OrderReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Print.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Properties.Resources.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Purchase.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseItems.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Sales.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Transportation.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.TransportationReport.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.UserRights.resources
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csproj.GenerateResource.Cache
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.pdb
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.dll
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\System.Net.Http.dll
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.pdb
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\bin\Debug\System.Net.Http.xml
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csprojResolveAssemblyReference.cache
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.ChangePassword.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Company.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.CompanyReport.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Dashboard.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Godown.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.GodownsReport.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Login.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Order.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.OrderReport.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Print.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PrintBill.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Properties.Resources.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Purchase.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseItems.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseReport.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Sales.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Transportation.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.TransportationReport.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.UserRights.resources
+D:\Samarpan\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csproj.GenerateResource.Cache
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\System.Net.Http.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\DAL.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\Process.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\bin\Debug\System.Net.Http.xml
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csprojResolveAssemblyReference.cache
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.ChangePassword.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Company.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.CompanyReport.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Dashboard.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Godown.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.GodownsReport.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Login.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Order.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.OrderReport.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Print.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PrintBill.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Properties.Resources.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Purchase.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseItems.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.PurchaseReport.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Sales.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.Transportation.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.TransportationReport.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.UserRights.resources
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.csproj.GenerateResource.Cache
+D:\Official Working\Software Work (Official)\Repos\SkidarHoshiary\SkidarHoshiary\bin\Debug\SkidarHoshiary.exe.config
+D:\Official Working\Software Work (Official)\Repos\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.exe
+D:\Official Working\Software Work (Official)\Repos\SkidarHoshiary\SkidarHoshiary\obj\Debug\SkidarHoshiary.pdb

@@ -1,0 +1,63 @@
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\obj\Debug\Process.dll
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\obj\Debug\Process.pdb
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\IMS-Avijan\SkidarHoshiary\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\ForDemo\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+D:\ForDemo\SkidarHoshiary\Process\obj\Debug\Process.dll
+D:\ForDemo\SkidarHoshiary\Process\bin\Debug\Process.dll
+D:\ForDemo\SkidarHoshiary\Process\bin\Debug\Process.pdb
+D:\ForDemo\SkidarHoshiary\Process\bin\Debug\DAL.dll
+D:\ForDemo\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\ForDemo\SkidarHoshiary\Process\obj\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\obj\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\24-11-2016\SkidarHoshiary\Process\obj\Debug\Process.pdb
+D:\Avijan\SkidarHoshiary\Process\bin\Debug\Process.dll
+D:\Avijan\SkidarHoshiary\Process\bin\Debug\Process.pdb
+D:\Avijan\SkidarHoshiary\Process\bin\Debug\DAL.dll
+D:\Avijan\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\Avijan\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+D:\Avijan\SkidarHoshiary\Process\obj\Debug\Process.dll
+D:\Avijan\SkidarHoshiary\Process\obj\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\25-11-2016\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\DAL.dll
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary(Latest)\SkidarHoshiary\Process\obj\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\bin\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\bin\Debug\Process.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\bin\Debug\DAL.dll
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\obj\Debug\Process.dll
+E:\Sample Project\Asp.net\Avian-sikdar\26-11-2016\SkidarHoshiary261116\SkidarHoshiary\Process\obj\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary\Process\bin\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary\Process\bin\Debug\Process.pdb
+D:\Samarpan\SkidarHoshiary\Process\bin\Debug\DAL.dll
+D:\Samarpan\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\Samarpan\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+D:\Samarpan\SkidarHoshiary\Process\obj\Debug\Process.dll
+D:\Samarpan\SkidarHoshiary\Process\obj\Debug\Process.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\bin\Debug\Process.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\bin\Debug\Process.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\bin\Debug\DAL.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\bin\Debug\DAL.pdb
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\obj\Debug\Process.dll
+D:\Avijan\IMSNEWKUNTAL\SkidarHoshiary\Process\obj\Debug\Process.pdb
